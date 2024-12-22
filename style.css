@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, h6{
+    font-weight: 500;
+}
+
+p{
+    font-weight: normal;
+    font-size: large;
+}
+
+span{
+    font-size: large;
+}
+
+tr{
+    font-size: medium;
+}
+
+a{
+    font-weight: 500;
+}
+
+.stock-link{
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.stock-link-small{
+    font-weight: 120;
+    font-size: 9px;
+    margin-left: 32px;
+}
+
+.stock-img {
+    margin: 20px 0px 10px;
+}
+
+.freepik-stock{
+    position: sticky;
+    top: 0;
+}
